@@ -24,3 +24,7 @@ Hint: The depth of the earth can be found as the third coordinate for each earth
 Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
 Create a legend that will provide context for your map data.
+
+# References
+Dataset created by the United States Geological SurveyLinks to an external site.
+UT-bootcamp 2023
